@@ -1,0 +1,9 @@
+
+Name: Oladotun Adigun
+BlazerId: oaadigun
+Project #: oaadigun_HW02
+To compile: make
+
+The code creates the search function
+It shows the file size, permissions and the last access time
+The options can be modified to different settings based on preference
