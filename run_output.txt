@@ -1,0 +1,233 @@
+Producer 0: wrote 50/500 numbers
+Consumer 0: read 50/250 numbers
+Producer 1: wrote 50/500 numbers
+Producer 0: wrote 100/500 numbers
+Producer 8: wrote 50/500 numbers
+Consumer 1: read 50/250 numbers
+Producer 6: wrote 50/500 numbers
+Consumer 18: read 50/250 numbers
+Producer 4: wrote 50/500 numbers
+Producer 4: wrote 100/500 numbers
+Consumer 2: read 50/250 numbers
+Producer 4: wrote 150/500 numbers
+Consumer 10: read 50/250 numbers
+Producer 4: wrote 200/500 numbers
+Producer 4: wrote 250/500 numbers
+Producer 7: wrote 50/500 numbers
+Producer 7: wrote 100/500 numbers
+Producer 7: wrote 150/500 numbers
+Consumer 10: read 100/250 numbers
+Producer 7: wrote 200/500 numbers
+Consumer 16: read 50/250 numbers
+Consumer 5: read 50/250 numbers
+Consumer 3: read 50/250 numbers
+Producer 6: wrote 100/500 numbers
+Consumer 17: read 50/250 numbers
+Consumer 7: read 50/250 numbers
+Consumer 12: read 50/250 numbers
+Consumer 4: read 50/250 numbers
+Consumer 4: read 100/250 numbers
+Producer 2: wrote 50/500 numbers
+Producer 2: wrote 100/500 numbers
+Consumer 0: read 100/250 numbers
+Producer 9: wrote 50/500 numbers
+Producer 2: wrote 150/500 numbers
+Consumer 18: read 100/250 numbers
+Consumer 3: read 100/250 numbers
+Consumer 8: read 50/250 numbers
+Producer 9: wrote 100/500 numbers
+Consumer 9: read 50/250 numbers
+Consumer 11: read 50/250 numbers
+Consumer 1: read 100/250 numbers
+Consumer 14: read 50/250 numbers
+Consumer 6: read 50/250 numbers
+Consumer 13: read 50/250 numbers
+Consumer 5: read 100/250 numbers
+Consumer 18: read 150/250 numbers
+Consumer 19: read 50/250 numbers
+Producer 3: wrote 50/500 numbers
+Producer 3: wrote 100/500 numbers
+Producer 3: wrote 150/500 numbers
+Producer 3: wrote 200/500 numbers
+Producer 3: wrote 250/500 numbers
+Producer 3: wrote 300/500 numbers
+Producer 3: wrote 350/500 numbers
+Producer 3: wrote 400/500 numbers
+Consumer 2: read 100/250 numbers
+Producer 3: wrote 450/500 numbers
+Consumer 2: read 150/250 numbers
+Producer 3: wrote 500/500 numbers
+Consumer 2: read 200/250 numbers
+Producer 3 finished (thread id 136573527414464)
+Consumer 2: read 250/250 numbers
+Consumer 2 finished (thread id 136573535807168) sum=122256
+Consumer 10: read 150/250 numbers
+Producer 4: wrote 300/500 numbers
+Producer 5: wrote 50/500 numbers
+Producer 1: wrote 100/500 numbers
+Producer 5: wrote 100/500 numbers
+Producer 5: wrote 150/500 numbers
+Producer 5: wrote 200/500 numbers
+Producer 8: wrote 100/500 numbers
+Producer 8: wrote 150/500 numbers
+Producer 8: wrote 200/500 numbers
+Consumer 10: read 200/250 numbers
+Producer 0: wrote 150/500 numbers
+Producer 0: wrote 200/500 numbers
+Producer 0: wrote 250/500 numbers
+Producer 0: wrote 300/500 numbers
+Producer 0: wrote 350/500 numbers
+Producer 0: wrote 400/500 numbers
+Producer 0: wrote 450/500 numbers
+Producer 0: wrote 500/500 numbers
+Producer 0 finished (thread id 136573552592576)
+Producer 9: wrote 150/500 numbers
+Consumer 7: read 100/250 numbers
+Consumer 10: read 250/250 numbers
+Producer 4: wrote 350/500 numbers
+Consumer 10 finished (thread id 136573468665536) sum=131618
+Consumer 3: read 150/250 numbers
+Consumer 3: read 200/250 numbers
+Consumer 3: read 250/250 numbers
+Consumer 3 finished (thread id 136573527414464) sum=117849
+Producer 7: wrote 250/500 numbers
+Producer 6: wrote 150/500 numbers
+Producer 6: wrote 200/500 numbers
+Producer 6: wrote 250/500 numbers
+Producer 6: wrote 300/500 numbers
+Producer 6: wrote 350/500 numbers
+Producer 6: wrote 400/500 numbers
+Producer 6: wrote 450/500 numbers
+Producer 6: wrote 500/500 numbers
+Producer 6 finished (thread id 136573502236352)
+Producer 7: wrote 300/500 numbers
+Producer 7: wrote 350/500 numbers
+Producer 7: wrote 400/500 numbers
+Producer 7: wrote 450/500 numbers
+Producer 7: wrote 500/500 numbers
+Producer 7 finished (thread id 136573493843648)
+Producer 4: wrote 400/500 numbers
+Consumer 12: read 100/250 numbers
+Producer 4: wrote 450/500 numbers
+Producer 4: wrote 500/500 numbers
+Producer 4 finished (thread id 136573519021760)
+Producer 2: wrote 200/500 numbers
+Producer 2: wrote 250/500 numbers
+Consumer 12: read 150/250 numbers
+Consumer 12: read 200/250 numbers
+Consumer 12: read 250/250 numbers
+Consumer 12 finished (thread id 136573451880128) sum=121401
+Producer 2: wrote 300/500 numbers
+Producer 2: wrote 350/500 numbers
+Producer 2: wrote 400/500 numbers
+Producer 2: wrote 450/500 numbers
+Producer 2: wrote 500/500 numbers
+Producer 2 finished (thread id 136573535807168)
+Consumer 8: read 100/250 numbers
+Consumer 8: read 150/250 numbers
+Consumer 8: read 200/250 numbers
+Consumer 8: read 250/250 numbers
+Producer 5: wrote 250/500 numbers
+Producer 5: wrote 300/500 numbers
+Consumer 11: read 100/250 numbers
+Consumer 11: read 150/250 numbers
+Producer 5: wrote 350/500 numbers
+Producer 1: wrote 150/500 numbers
+Producer 1: wrote 200/500 numbers
+Consumer 11: read 200/250 numbers
+Producer 1: wrote 250/500 numbers
+Producer 9: wrote 200/500 numbers
+Producer 8: wrote 250/500 numbers
+Producer 8: wrote 300/500 numbers
+Consumer 11: read 250/250 numbers
+Consumer 11 finished (thread id 136573460272832) sum=125890
+Producer 8: wrote 350/500 numbers
+Consumer 19: read 100/250 numbers
+Producer 1: wrote 300/500 numbers
+Producer 5: wrote 400/500 numbers
+Consumer 18: read 200/250 numbers
+Consumer 18: read 250/250 numbers
+Producer 8: wrote 400/500 numbers
+Consumer 18 finished (thread id 136573401523904) sum=128424
+Producer 8: wrote 450/500 numbers
+Consumer 1: read 150/250 numbers
+Producer 8: wrote 500/500 numbers
+Producer 9: wrote 250/500 numbers
+Consumer 0: read 150/250 numbers
+Producer 5: wrote 450/500 numbers
+Consumer 7: read 150/250 numbers
+Consumer 17: read 100/250 numbers
+Consumer 0: read 200/250 numbers
+Consumer 15: read 50/250 numbers
+Consumer 9: read 100/250 numbers
+Consumer 8 finished (thread id 136573485450944) sum=121809
+Consumer 9: read 150/250 numbers
+Consumer 0: read 250/250 numbers
+Consumer 0 finished (thread id 136573552592576) sum=113355
+Consumer 15: read 100/250 numbers
+Consumer 15: read 150/250 numbers
+Consumer 5: read 150/250 numbers
+Consumer 5: read 200/250 numbers
+Producer 5: wrote 500/500 numbers
+Producer 5 finished (thread id 136573510629056)
+Consumer 5: read 250/250 numbers
+Consumer 5 finished (thread id 136573510629056) sum=124226
+Producer 9: wrote 300/500 numbers
+Producer 1: wrote 350/500 numbers
+Consumer 6: read 100/250 numbers
+Producer 1: wrote 400/500 numbers
+Producer 1: wrote 450/500 numbers
+Producer 9: wrote 350/500 numbers
+Consumer 6: read 150/250 numbers
+Consumer 4: read 150/250 numbers
+Consumer 14: read 100/250 numbers
+Consumer 4: read 200/250 numbers
+Producer 9: wrote 400/500 numbers
+Consumer 13: read 100/250 numbers
+Consumer 13: read 150/250 numbers
+Producer 8 finished (thread id 136573485450944)
+Consumer 16: read 100/250 numbers
+Producer 1: wrote 500/500 numbers
+Producer 1 finished (thread id 136573544199872)
+Consumer 15: read 200/250 numbers
+Consumer 15: read 250/250 numbers
+Producer 9: wrote 450/500 numbers
+Producer 9: wrote 500/500 numbers
+Consumer 15 finished (thread id 136573426702016) sum=123130
+Producer 9 finished (thread id 136573477058240)
+Consumer 9: read 200/250 numbers
+Consumer 9: read 250/250 numbers
+Parent: all producers finished, closing write end of pipe.
+Consumer 9 finished (thread id 136573477058240) sum=120825
+Consumer 14: read 150/250 numbers
+Consumer 14: read 200/250 numbers
+Consumer 14: read 250/250 numbers
+Consumer 14 finished (thread id 136573435094720) sum=121984
+Consumer 7: read 200/250 numbers
+Consumer 7: read 250/250 numbers
+Consumer 7 finished (thread id 136573493843648) sum=129084
+Consumer 4: read 250/250 numbers
+Consumer 4 finished (thread id 136573519021760) sum=130597
+Consumer 19: read 150/250 numbers
+Consumer 19: read 200/250 numbers
+Consumer 1: read 200/250 numbers
+Consumer 1: read 250/250 numbers
+Consumer 1 finished (thread id 136573544199872) sum=134155
+Consumer 17: read 150/250 numbers
+Consumer 17: read 200/250 numbers
+Consumer 17: read 250/250 numbers
+Consumer 17 finished (thread id 136573409916608) sum=123072
+Consumer 13: read 200/250 numbers
+Consumer 6: read 200/250 numbers
+Consumer 6: read 250/250 numbers
+Consumer 6 finished (thread id 136573502236352) sum=124226
+Consumer 13: read 250/250 numbers
+Consumer 13 finished (thread id 136573443487424) sum=117285
+Consumer 16: read 150/250 numbers
+Consumer 19: read 250/250 numbers
+Consumer 19 finished (thread id 136573393131200) sum=127775
+Consumer 16: read 200/250 numbers
+Consumer 16: read 250/250 numbers
+Consumer 16 finished (thread id 136573418309312) sum=125044
+Child: Average of consumer sums = 124200.250000
+Parent: child finished with status 0. Exiting.

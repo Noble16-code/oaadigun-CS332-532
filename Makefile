@@ -1,4 +1,4 @@
-FILE = oaadigun_HW02
+FILE = hw4
 
 build: $(FILE).c
 	# compile with warnings, debug info, and math library
